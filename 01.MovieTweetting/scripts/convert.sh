@@ -3,6 +3,7 @@
 #$1: converted dataset output dir
 #
 # example: sh convert.sh snapshots_10K /tmp
+# it requires groovy
 
 if  [ $# -lt 2 ] ; then
 	echo 'missing input parameters'
