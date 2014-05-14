@@ -107,7 +107,7 @@ class ConvertMovieTweetingsToCrowdRec {
 				def movieid = rating_els[1]
 				def rating_value = rating_els[2]
 				def ts = rating_els[3]
-				addRelation(relations_out, RATING_RTYPE, rowindex, ts, [], [subject:createEntityRef(USER_ETYPE,userid), object:createEntityRef(MOVIE_ETYPE,movieid), rating:rating_value  ])
+				addRelation(relations_out, RATING_RTYPE, rowindex, ts, [rating:rating_value], [subject:createEntityRef(USER_ETYPE,userid), object:createEntityRef(MOVIE_ETYPE,movieid) ])
 			}
 		}
 	}
