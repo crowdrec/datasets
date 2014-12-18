@@ -1,4 +1,4 @@
-package dev.crowdrec.io
+package eu.crowdrec.io
 
 /**
  * It converts the MovieTweetings dataset (https://github.com/sidooms/MovieTweetings) to the CrowdRec format:
