@@ -1,0 +1,10 @@
+rtype	rid	timestamp	properties	linkedEntities
+recommendation	1	{"reclen":5}	{"subject":"user:7"}
+recommendation  2       {"reclen":5}    {"subject":"user:10"}
+recommendation  3       {"reclen":5}    {"subject":"user:11"}
+recommendation  4       {"reclen":5}    {"subject":"user:15"}
+recommendation  5       {"reclen":5}    {"subject":"user:16"}
+recommendation  6       {"reclen":5}    {"subject":"user:22"}
+recommendation  7       {"reclen":5}    {"subject":"user:27"}
+recommendation  8       {"reclen":5}    {"subject":"user:28"}
+EOF	9	{}	{}
