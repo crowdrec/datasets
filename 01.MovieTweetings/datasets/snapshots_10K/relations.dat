@@ -9999,3 +9999,4 @@ rating.explicit	9997	1362266517	{"rating":1}	{"subject":"user:3793","object":"mo
 rating.explicit	9998	1362867629	{"rating":5}	{"subject":"user:3793","object":"movie:2101341"}
 rating.explicit	9999	1362172869	{"rating":3}	{"subject":"user:3793","object":"movie:2332522"}
 rating.explicit	10000	1363221425	{"rating":10}	{"subject":"user:3794","object":"movie:0120655"}
+EOF	0	0	{}	{}
