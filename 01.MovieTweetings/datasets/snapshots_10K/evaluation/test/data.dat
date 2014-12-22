@@ -1,10 +1,49 @@
 rtype	rid	timestamp	properties	linkedEntities
-recommendation	1	{"reclen":5}	{"subject":"user:7"}
-recommendation  2       {"reclen":5}    {"subject":"user:10"}
-recommendation  3       {"reclen":5}    {"subject":"user:11"}
-recommendation  4       {"reclen":5}    {"subject":"user:15"}
-recommendation  5       {"reclen":5}    {"subject":"user:16"}
-recommendation  6       {"reclen":5}    {"subject":"user:22"}
-recommendation  7       {"reclen":5}    {"subject":"user:27"}
-recommendation  8       {"reclen":5}    {"subject":"user:28"}
+rating.explicit	1	1363245118	{"rating":9}	{"subject":"user:1","object":"movie:0120735"}
+rating.explicit	2	1362901837	{"rating":10}	{"subject":"user:2","object":"movie:2592910"}
+rating.explicit	3	1363566189	{"rating":8}	{"subject":"user:3","object":"movie:1924396"}
+rating.explicit	4	1363557326	{"rating":8}	{"subject":"user:4","object":"movie:0887912"}
+rating.explicit	5	1362869000	{"rating":7}	{"subject":"user:5","object":"movie:1182350"}
+rating.explicit	6	1362869039	{"rating":9}	{"subject":"user:5","object":"movie:1230414"}
+rating.explicit	7	1362869072	{"rating":9}	{"subject":"user:5","object":"movie:1707386"}
+rating.explicit	8	1362093598	{"rating":9}	{"subject":"user:6","object":"movie:0093389"}
+rating.explicit	9	1362946823	{"rating":9}	{"subject":"user:6","object":"movie:0253474"}
+rating.explicit	10	1362171538	{"rating":7}	{"subject":"user:6","object":"movie:0861739"}
+rating.explicit	11	1362602474	{"rating":6}	{"subject":"user:6","object":"movie:2097307"}
+rating.explicit	12	1363474387	{"rating":9}	{"subject":"user:7","object":"movie:0086250"}
+rating.explicit	13	1362848669	{"rating":9}	{"subject":"user:7","object":"movie:0245844"}
+rating.explicit	14	1362260669	{"rating":8}	{"subject":"user:7","object":"movie:0403508"}
+rating.explicit	15	1363557715	{"rating":8}	{"subject":"user:7","object":"movie:0790628"}
+rating.explicit	16	1362173331	{"rating":6}	{"subject":"user:7","object":"movie:1235522"}
+rating.explicit	17	1362340777	{"rating":10}	{"subject":"user:7","object":"movie:1477715"}
+rating.explicit	18	1362778417	{"rating":7}	{"subject":"user:7","object":"movie:1764183"}
+rating.explicit	19	1362522426	{"rating":4}	{"subject":"user:7","object":"movie:2023587"}
+rating.explicit	20	1363120831	{"rating":7}	{"subject":"user:7","object":"movie:2053463"}
+rating.explicit	21	1362340759	{"rating":10}	{"subject":"user:7","object":"movie:2220642"}
+rating.explicit	22	1362811111	{"rating":8}	{"subject":"user:8","object":"movie:0078754"}
+rating.explicit	23	1362239349	{"rating":7}	{"subject":"user:8","object":"movie:0116778"}
+rating.explicit	24	1362757889	{"rating":7}	{"subject":"user:8","object":"movie:0119141"}
+rating.explicit	25	1362088977	{"rating":7}	{"subject":"user:8","object":"movie:0343660"}
+rating.explicit	26	1362779198	{"rating":4}	{"subject":"user:8","object":"movie:0783581"}
+rating.explicit	27	1362291727	{"rating":7}	{"subject":"user:8","object":"movie:0948470"}
+rating.explicit	28	1362772719	{"rating":6}	{"subject":"user:8","object":"movie:1438173"}
+rating.explicit	29	1363404833	{"rating":6}	{"subject":"user:8","object":"movie:1535970"}
+rating.explicit	30	1362168040	{"rating":7}	{"subject":"user:8","object":"movie:2034139"}
+rating.explicit	31	1362364884	{"rating":7}	{"subject":"user:9","object":"movie:0758774"}
+rating.explicit	32	1363440381	{"rating":6}	{"subject":"user:9","object":"movie:1659343"}
+rating.explicit	33	1362885649	{"rating":7}	{"subject":"user:10","object":"movie:1623205"}
+rating.explicit	34	1363494318	{"rating":7}	{"subject":"user:10","object":"movie:1855199"}
+rating.explicit	35	1363111678	{"rating":3}	{"subject":"user:11","object":"movie:1758830"}
+rating.explicit	36	1362679455	{"rating":7}	{"subject":"user:11","object":"movie:1790885"}
+rating.explicit	37	1362084991	{"rating":10}	{"subject":"user:12","object":"movie:2125608"}
+rating.explicit	38	1363533277	{"rating":6}	{"subject":"user:13","object":"movie:0039834"}
+rating.explicit	39	1362093742	{"rating":9}	{"subject":"user:13","object":"movie:0074958"}
+recommendation	40	1362093742	{"reclen":5}	{"subject":"user:7"}
+recommendation  41	1362093742	{"reclen":5}    {"subject":"user:10"}
+recommendation  42	1362093742	{"reclen":5}    {"subject":"user:11"}
+recommendation  43	1362093742	{"reclen":5}    {"subject":"user:15"}
+recommendation  44	1362093742	{"reclen":5}    {"subject":"user:16"}
+recommendation  45	1362093742	{"reclen":5}    {"subject":"user:22"}
+recommendation  46	1362093742	{"reclen":5}    {"subject":"user:27"}
+recommendation  47	1362093742	{"reclen":5}    {"subject":"user:28"}
 EOF	9	{}	{}
