@@ -39,11 +39,11 @@ rating.explicit	37	1362084991	{"rating":10}	{"subject":"user:12","object":"movie
 rating.explicit	38	1363533277	{"rating":6}	{"subject":"user:13","object":"movie:0039834"}
 rating.explicit	39	1362093742	{"rating":9}	{"subject":"user:13","object":"movie:0074958"}
 recommendation	40	1362093742	{"reclen":5}	{"subject":"user:7"}
-recommendation	41	1362093742	{"reclen":5}    {"subject":"user:10"}
-recommendation	42	1362093742	{"reclen":5}    {"subject":"user:11"}
-recommendation	43	1362093742	{"reclen":5}    {"subject":"user:15"}
-recommendation	44	1362093742	{"reclen":5}    {"subject":"user:16"}
-recommendation	45	1362093742	{"reclen":5}    {"subject":"user:22"}
-recommendation	46	1362093742	{"reclen":5}    {"subject":"user:27"}
-recommendation	47	1362093742	{"reclen":5}    {"subject":"user:28"}
+recommendation	41	1362093742	{"reclen":5}	{"subject":"user:10"}
+recommendation	42	1362093742	{"reclen":5}	{"subject":"user:11"}
+recommendation	43	1362093742	{"reclen":5}	{"subject":"user:15"}
+recommendation	44	1362093742	{"reclen":5}	{"subject":"user:16"}
+recommendation	45	1362093742	{"reclen":5}	{"subject":"user:22"}
+recommendation	46	1362093742	{"reclen":5}	{"subject":"user:27"}
+recommendation	47	1362093742	{"reclen":5}	{"subject":"user:28"}
 EOF	48	{}	{}
